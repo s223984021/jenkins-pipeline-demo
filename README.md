@@ -1,3 +1,1 @@
-# jenkins-pipeline-demo
-Credit task
-new line
+# jenkins pipeline demo
